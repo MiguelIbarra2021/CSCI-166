@@ -1,16 +1,14 @@
-# summer25
+# Fall 2025
 
-## A Little Pong
+## ALE Breakout V5
 
-[Pong Docs](https://ale.farama.org/environments/pong/)
+[Breakout Docs](https://ale.farama.org/environments/breakout/)
 
-## 🎮 DQN Pong Agent Evaluation
+## 🎮 DQN Breakout Agent Evaluation
 
 Watch how performance improves as training progresses:
 
 | Episode | Model | Preview | Video |
 |---------|--------|---------|--------|
-| 1       | `-20`  | <img src="docs/thumb_-20.png" width="120"/> | <a href="ALE_Breakout-v5_first_model.mp4" target="_blank">▶ Watch</a> |
-| 1       | `-10`  | <img src="docs/thumb_-10.png" width="120"/> | <a href="https://everestso.github.io/summer25/ALE_Pong-v5-best_-10-test_epsdec150000_rs10000_sync1000-episode-1.mp4" target="_blank">▶ Watch</a> |
-
-> 💡 Videos and thumbnails are automatically named based on model performance.
+| First   | `ALE_Breakout-v5-best_0-20250928-1852-Qbert_test_epsdec10000_rs1000_sync500`  | <img src="first.PNG" width="120"/> | <a href="https://github.com/MiguelIbarra2021/CSCI-166/blob/655c78538d7626981382ceef80ad5e4b684d7df0/ALE_Breakout-v5_first_model.mp4" target="_blank">▶ Watch</a> |
+| Last    | `ALE_Breakout-v5-best_4-20250928-1941-Qbert_test_epsdec10000_rs1000_sync500`  | <img src="last.PNG" width="120"/> | <a href="https://github.com/MiguelIbarra2021/CSCI-166/blob/655c78538d7626981382ceef80ad5e4b684d7df0/ALE_Breakout-v5_last_model.mp4" target="_blank">▶ Watch</a> 
